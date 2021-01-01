@@ -4,6 +4,8 @@
 
 原本供 Beat Saber 使用的 Overlay 改寫為給 Osu 使用的 Overlay
 
+這個 overlay 只有在 gameplay 時會出現
+
 ![preview](https://i.imgur.com/mZlnpAm.png)
 
 ## 使用方法
