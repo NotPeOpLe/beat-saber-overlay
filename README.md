@@ -1,6 +1,7 @@
 # Beat Saber Overlay for Gosumemory
 
-A web-based overlay for Osu!
+原始來源: https://github.com/Reselim/beat-saber-overlay
+原本供 Beat Saber 使用的 Overlay 改寫為給 Osu 使用的 Overlay
 
 ![preview](https://i.imgur.com/mZlnpAm.png)
 
