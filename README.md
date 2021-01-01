@@ -1,12 +1,12 @@
-# (Unnamed) Beat Saber Overlay
+# Beat Saber Overlay for Gosumemory
 
-A web-based overlay for Beat Saber
+A web-based overlay for Osu!
 
-![preview](https://i.imgur.com/fOg4TUp.png)
+![preview](https://i.imgur.com/mZlnpAm.png)
 
 ## Installation (OBS)
 
-1. Download and install the [BeatSaberHTTPStatus plugin](https://github.com/opl-/beatsaber-http-status/releases)
+1. Download and install the [gosumemory](https://github.com/l3lackShark/gosumemory/releases/)
 2. Create a Browser source
 
 ![image](https://i.imgur.com/WyTjdtd.png)

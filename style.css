@@ -34,6 +34,7 @@ body {
 #image {
 	width: 90px;
 	height: 90px;
+	object-fit: cover;
 }
 
 #meta {
@@ -74,7 +75,7 @@ body {
 	margin: 2px 0 0 0;
 }
 
-#difficulty, #bpm, #njs {
+#difficulty, #bpm, #star {
 	display: inline-block;
 
 	font-size: 10px;
@@ -95,7 +96,7 @@ body {
 	margin: 0 8px;
 }
 
-#njs {
+#star {
 	margin: 0 0px;
 }
 
@@ -109,7 +110,7 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-
+	
 	width: 90px;
 	height: 90px;
 }
